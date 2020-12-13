@@ -1,7 +1,6 @@
 
 ![image](https://github.com/wangbojing/NtyTcp/blob/master/doc/arch.png)
 
-[配套视频讲解](https://ke.qq.com/course/2739583?tuin=1bf84273)
 
 ## netmap install
 ```
@@ -66,11 +65,4 @@ epoll server run:
 $ ./bin/nty_example_epoll_rb_server
 ```
 
-## Reference
-* [Level-IP](https://github.com/saminiir/level-ip) and [saminiir blog](http://www.saminiir.com/)
-* [Linux kernel TCP/IP stack](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/net/ipv4)
-
-if you discover bug to sending email to 1989wangbojing@163.com. 
-
-also, want to be an NtyTcper, so you can sent email to 1989wangbojing@163.com .
 
